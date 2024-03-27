@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rania, 21yo
+I'm Rania, 22yo
 
 - 🔭 I’m currently a final year intelligent systems and data student at ESI, Algiers, Algeria
 - 🌱 I'm an AI, deep learning, and machine learning enthusiast
