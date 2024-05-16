@@ -17,15 +17,13 @@
 
 ---
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaniaRez&show_icons=true)
-
 ⚡ Fun Fact: I'm a short-tempered person with a long stride - I walk more than 20 km for fun! 🚶‍♂️🔥
 
 ---
 
 🎉 Performance:
-![Image 1](image_link)
-![Image 2](image_link)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaniaRez&show_icons=true)
+![LeetCode](https://drive.google.com/file/d/1TC6GmolZakXt-KLOHnhQlmjvmRpxmp7F/view?usp=sharing)
 
 
 
