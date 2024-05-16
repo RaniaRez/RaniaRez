@@ -1,7 +1,7 @@
 # Hi there, I'm Rania! 👋
-[![Linkedin: Rania](https://img.shields.io/badge/-Rania-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Rania/)](https://www.linkedin.com/in/rania-fatmazohra-rezkellah-155896212/))
-[![Medium: Medium](https://img.shields.io/badge/-YourName-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@YourName)](https://medium.com/@jf_rezkellah))
-[![Gmail: Gmail](https://img.shields.io/badge/-YourName-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your_email@gmail.com)](mailto:jf_rezkellah@esi.dz)
+[![Linkedin: LinkedIn ](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LinkedIn /)](https://www.linkedin.com/in/rania-fatmazohra-rezkellah-155896212/))
+[![Medium: Medium](https://img.shields.io/badge/-medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@medium)](https://medium.com/@jf_rezkellah))
+[![Gmail: Gmail](https://img.shields.io/badge/-gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your_email@gmail.com)](mailto:jf_rezkellah@esi.dz)
 
 ---
 
