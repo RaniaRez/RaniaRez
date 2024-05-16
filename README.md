@@ -1,5 +1,7 @@
 # Hi there, I'm Rania! 👋
-
+<div align="center">
+Hit me up here!
+</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/rania-fatmazohra-rezkellah-155896212/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@jf_rezkellah"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" alt="Medium"></a>
