@@ -10,8 +10,8 @@ Hit me up here! <br>
 ---
 
 👨‍💻 About Me:
-- I'm a passionate Intelligent Systems & Data student @ESI Algiers💼
-- Currently working as a NLP intern @Ornidex 🚀
+- I'm a passionate Intelligent Systems & Data Engineer from ESI Algiers💼
+- Currently looking for interesting AI (Particularly NLP) positions🚀
 - Learning about Large Language Models, MLOPS, and Competitive programming🖥
 
 🛠️ Technologies & Tools:
