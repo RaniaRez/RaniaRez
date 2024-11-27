@@ -11,11 +11,13 @@ Hit me up here! <br>
 
 👨‍💻 About Me:
 - I'm a passionate Intelligent Systems & Data Engineer from ESI Algiers💼
-- Currently looking for interesting AI (Particularly NLP) positions🚀
+- Currently persuing a Masters Degree in AI at PSL Dauphine
+- Actively looking for interesting AI (Particularly NLP) positions🚀
 - Learning about Large Language Models, MLOPS, and Competitive programming🖥
 
 🛠️ Technologies & Tools:
 - Python
+- Pytorch
 - Tensorflow keras
 - HTML, CSS
 
