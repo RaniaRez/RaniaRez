@@ -11,7 +11,7 @@ Hit me up here! <br>
 
 👨‍💻 About Me:
 - I'm a passionate Intelligent Systems & Data Engineer from ESI Algiers💼
-- Currently persuing a Masters Degree in AI at PSL Research University in France
+- Currently pursuing a MSc Degree in AI at PSL Research University in France
 - Actively looking for interesting AI (Particularly NLP) positions🚀
 - Learning about Large Language Models, MLOPS, and Competitive programming🖥
 
